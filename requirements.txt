@@ -1,3 +1,4 @@
-Flask
-python-dotenv
-python-telegram-bot
+aiohttp>=3.11.11
+discord.py>=2.4.0
+python-dotenv>=1.0.1
+requests>=2.32.3
